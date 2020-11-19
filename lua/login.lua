@@ -1,0 +1,1 @@
+print ('This message from server')
