@@ -57,7 +57,8 @@ var itemList = [
             { "name": "爱奇艺", "url": "http://www.iqiyi.com/" },
             { "name": "YouTube", "url": "https://www.youtube.com" },
             { "name": "腾讯视频", "url": "https://v.qq.com/" },
-            { "name": "哔哩哔哩", "url": "https://www.bilibili.com/" }
+            { "name": "哔哩哔哩", "url": "https://www.bilibili.com/" },
+            { "name": "CCTV5", "url": "https://tv.cctv.com/cctv5/" }
         ]
     },
     {
