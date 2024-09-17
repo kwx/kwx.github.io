@@ -41,6 +41,7 @@ var itemList = [
         "title": "编程文档",
         "web": [
             { "name": ".Net 文档", "url": "https://learn.microsoft.com/zh-cn/dotnet/" },
+            { "name": "c# 教程", "url": "https://learn.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp/" },
             { "name": "cheat.sh", "url": "https://cheat.sh" },
             { "name": "Python 语法参考", "url": "https://www.runoob.com/python3/python3-tutorial.html" },
             { "name": "Unity Cg Programming", "url": "http://en.wikibooks.org/wiki/Cg_Programming/Unity" },
