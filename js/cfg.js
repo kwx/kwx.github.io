@@ -5,8 +5,7 @@ var itemList = [
             { "name": "Bing", "url": "https://cn.bing.com" },
             { "name": "Google", "url": "https://www.google.com.hk/" },
             { "name": "百度", "url": "https://www.baidu.com/" },
-            { "name": "百度 Chat", "url": "https://chat.baidu.com/" },
-            { "name": "文心一言", "url": "https://yiyan.baidu.com/" }
+            { "name": "百度 Chat", "url": "https://chat.baidu.com/" }
         ]
     },
     {
@@ -15,6 +14,13 @@ var itemList = [
             { "name": "Github", "url": "https://www.github.com" },
             { "name": "Bitbucket", "url": "https://bitbucket.org/" },
             { "name": "开源中国", "url": "https://git.oschina.net/" }
+        ]
+    },
+    {
+        "title": "AI",
+        "web": [
+            { "name": "魔塔社区", "url": "https://www.modelscope.cn/aigc/home" },
+            { "name": "文心一言", "url": "https://yiyan.baidu.com/" }
         ]
     },
     {
