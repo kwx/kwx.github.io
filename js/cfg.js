@@ -61,7 +61,7 @@ var itemList = [
         "title": "娱乐",
         "web": [
             { "name": "hao123", "url": "http://www.hao123.com/" },
-            { "name": "电影天堂", "url": "http://www.dy2018.com/" },
+            { "name": "电影天堂", "url": "https://www.dy2018.com/" },
             { "name": "爱奇艺", "url": "http://www.iqiyi.com/" },
             { "name": "YouTube", "url": "https://www.youtube.com" },
             { "name": "腾讯视频", "url": "https://v.qq.com/" },
