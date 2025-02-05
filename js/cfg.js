@@ -92,7 +92,8 @@ var itemList = [
             { "name": "Trello", "url": "https://trello.com/" },
             { "name": "Teambition", "url": "https://www.teambition.com" },
             { "name": "phpAdmin 本地", "url": "http://127.0.0.1/phpmyadmin" },
-            { "name": "phpAdmin 221", "url": "http://192.168.0.221/phpmyadmin" }
+            { "name": "phpAdmin 221", "url": "http://192.168.0.221/phpmyadmin" },
+            { "name": "bugly", "url": "https://bugly.qq.com/v2/index" }
         ]
     },
     {
