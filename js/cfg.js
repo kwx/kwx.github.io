@@ -72,25 +72,18 @@ var itemList = [
     {
         "title": "工具",
         "web": [
-            { "name": "微软翻译", "url": "https://cn.bing.com/translator" },
             { "name": "欧陆词典", "url": "https://dict.eudic.net/" },
             { "name": "Google云端硬盘", "url": "https://drive.google.com" },
             { "name": "Git参考", "url": "http://git-scm.com/" },
-            { "name": "Cacoo图表工具", "url": "https://cacoo.com/" },
-            { "name": "PO图表工具", "url": "http://www.processon.com/" },
             { "name": "Json解析", "url": "http://json.cn" },
             { "name": "站长工具", "url": "http://tool.chinaz.com/Tools/unixtime.aspx" },
-            { "name": "Markdown编辑器", "url": "http://dillinger.io/" },
             { "name": "印象笔记", "url": "https://www.yinxiang.com/" },
-            { "name": "网易云阅读", "url": "http://yuedu.163.com/" },
-            { "name": "Web微信", "url": "https://wx.qq.com/" }
+            { "name": "网易云阅读", "url": "http://yuedu.163.com/" }
         ]
     },
     {
         "title": "工作",
         "web": [
-            { "name": "Trello", "url": "https://trello.com/" },
-            { "name": "Teambition", "url": "https://www.teambition.com" },
             { "name": "phpAdmin 本地", "url": "http://127.0.0.1/phpmyadmin" },
             { "name": "phpAdmin 221", "url": "http://192.168.0.221/phpmyadmin" },
             { "name": "bugly", "url": "https://bugly.qq.com/v2/index" }
