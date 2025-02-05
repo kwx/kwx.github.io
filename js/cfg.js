@@ -20,7 +20,7 @@ var itemList = [
         "title": "AI",
         "web": [
             { "name": "魔塔社区", "url": "https://www.modelscope.cn/aigc/home" },
-            { "name": "文心一言", "url": "https://yiyan.baidu.com/" }
+            { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
         ]
     },
     {
