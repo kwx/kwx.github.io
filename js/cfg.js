@@ -39,6 +39,7 @@ var itemList = [
             { "name": "CSDN", "url": "http://www.csdn.net/" },
             { "name": "Stackoverflow", "url": "https://stackoverflow.com" },
             { "name": "Segmentfault", "url": "https://segmentfault.com/" },
+            { "name": "Quora", "url": "https://www.quora.com/" },
             { "name": "掘金", "url": "https://juejin.im/" },
             { "name": "InfoQ", "url": "https://www.infoq.cn" }
         ]
