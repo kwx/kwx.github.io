@@ -86,7 +86,6 @@ var itemList = [
         "title": "工作",
         "web": [
             { "name": "phpAdmin 本地", "url": "http://127.0.0.1/phpmyadmin" },
-            { "name": "phpAdmin 221", "url": "http://192.168.0.221/phpmyadmin" },
             { "name": "bugly", "url": "https://bugly.qq.com/v2/index" }
         ]
     },
@@ -96,7 +95,8 @@ var itemList = [
             { "name": "OpenGameArt", "url": "http://www.opengameart.org/" },
             { "name": "EasyIcon", "url": "http://www.easyicon.net/" },
             { "name": "爱给素材", "url": "https://www.aigei.com/" },
-            { "name": "天气预报", "url": "https://wttr.in/" }
+            { "name": "天气预报", "url": "https://wttr.in/" },
+            { "name": "Giphy[GIF]", "url": "https://giphy.com/apps/giphy" }
         ]
     },
     {
