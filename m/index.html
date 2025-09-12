@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.kwx51.com/image/favicon.ico" media="screen" />
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" >
+<title>我的首页</title>
+<style type="text/css">
+html,body { margin:0; padding:0; font-size:12px; font-family:"Microsoft YaHei", "微软雅黑"; color:#333;}
+div,ul,li,form,p,dl,dt,dd,h1,h2,h3,h4,h5,h6,img,a,form,img,input{ margin:0; padding:0; list-style:none;}
+.clear { clear:both; height:0px; overflow:hidden;}
+img{ border:0;}
+a { text-decoration: none;}
+a:hover {text-decoration: none;} 
+
+.list_ul { margin:8px 10px; border:1px solid #ddd; background:#f9f9f9; border-bottom:0;}
+.list_ul li { border-bottom:1px solid #ddd; padding:4px 8px;}
+.list_ul li.bg { background:#f0f0f0;}
+.list_ul li h2 { font-size:14px; line-height:24px;}
+.list_ul li .span_box { line-height:24px; padding:5px 0px;}
+.list_ul li a { color:#333;}
+.list_ul li a:hover { text-decoration:underline;}
+.list_ul li span { display:block; width:33%; float:left; height:24px; overflow:hidden;}
+
+</style>
+</head>
+
+<body>
+<ul class="list_ul"></ul>
+</body>
+</html>
+<script src="../js/cfg.js"></script>
+<script type="text/javascript">
+    function generateLinksHTML(itemList) {
+        var html = '';
+        for (var i = 0; i < itemList.length; i++) {
+            var item = itemList[i];
+            if (i % 2 == 0) {
+                html += '<li class="bg">';
+            } else {
+                html += '<li>';
+            }
+            html += '<h2>' + item.title + '</h2>';
+            html += '<div class="span_box">';
+            item["web"].forEach(function(link) {
+                html += '<span><a href="' + link.url + '" target="_blank">' + link.name + '</a></span>';
+            });
+            html += '</div>';
+            html += '</li>';
+        }
+        return html;
+    }
+    var listUl = document.querySelector('.list_ul');
+    listUl.innerHTML = generateLinksHTML(itemList);
+</script>
