@@ -5,6 +5,7 @@ var itemList = [
             { "name": "Bing", "url": "https://cn.bing.com" },
             { "name": "Google", "url": "https://www.google.com.hk/" },
             { "name": "百度", "url": "https://www.baidu.com/" },
+            { "name": "DuckDuckGo", "url": "https://duckduckgo.com" },
             { "name": "百度 Chat", "url": "https://chat.baidu.com/" }
         ]
     },
