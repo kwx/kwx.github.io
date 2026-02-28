@@ -42,7 +42,8 @@ var itemList = [
             { "name": "Segmentfault", "url": "https://segmentfault.com/" },
             { "name": "Quora", "url": "https://www.quora.com/" },
             { "name": "掘金", "url": "https://juejin.im/" },
-            { "name": "InfoQ", "url": "https://www.infoq.cn" }
+            { "name": "HackerNewsCN", "url": "https://supertechfans.com/cn" },
+            { "name": "InfoQ", "url": "https://www.infoq.cn" },
         ]
     },
     {
