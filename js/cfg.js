@@ -2,11 +2,10 @@ var itemList = [
     {
         "title": "搜索",
         "web": [
-            { "name": "Bing", "url": "https://cn.bing.com" },
-            { "name": "Google", "url": "https://www.google.com.hk/" },
             { "name": "百度", "url": "https://www.baidu.com/" },
-            { "name": "DuckDuckGo", "url": "https://duckduckgo.com" },
-            { "name": "百度 Chat", "url": "https://chat.baidu.com/" }
+            { "name": "Google", "url": "https://www.google.com.hk/" },
+            { "name": "Bing", "url": "https://cn.bing.com" },
+            { "name": "DuckDuckGo", "url": "https://duckduckgo.com" }
         ]
     },
     {
@@ -18,10 +17,13 @@ var itemList = [
         ]
     },
     {
-        "title": "AI",
+        "title": "LLM",
         "web": [
-            { "name": "魔塔社区", "url": "https://www.modelscope.cn/aigc/home" },
             { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+            { "name": "豆包", "url": "https://www.doubao.com/chat" },
+            { "name": "元宝", "url": "https://yuanbao.tencent.com/chat" },
+            { "name": "百度 Chat", "url": "https://chat.baidu.com/" },
+            { "name": "魔塔社区", "url": "https://www.modelscope.cn/aigc/home" }
         ]
     },
     {
