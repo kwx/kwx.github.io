@@ -3,17 +3,15 @@ var itemList = [
         "title": "搜索",
         "web": [
             { "name": "百度", "url": "https://www.baidu.com/" },
-            { "name": "Google", "url": "https://www.google.com.hk/" },
-            { "name": "Bing", "url": "https://cn.bing.com" },
-            { "name": "DuckDuckGo", "url": "https://duckduckgo.com" }
+            { "name": "Google", "url": "https://www.google.com.hk/" }
         ]
     },
     {
         "title": "数据仓库",
         "web": [
             { "name": "Github", "url": "https://www.github.com" },
-            { "name": "Bitbucket", "url": "https://bitbucket.org/" },
-            { "name": "开源中国", "url": "https://git.oschina.net/" }
+            { "name": "开源中国", "url": "https://git.oschina.net/" },
+            { "name": "Bitbucket", "url": "https://bitbucket.org/" }
         ]
     },
     {
@@ -38,7 +36,6 @@ var itemList = [
     {
         "title": "社区",
         "web": [
-            { "name": "163邮箱", "url": "http://mail.163.com" },
             { "name": "CSDN", "url": "http://www.csdn.net/" },
             { "name": "Stackoverflow", "url": "https://stackoverflow.com" },
             { "name": "Segmentfault", "url": "https://segmentfault.com/" },
@@ -65,11 +62,10 @@ var itemList = [
     {
         "title": "娱乐",
         "web": [
-            { "name": "hao123", "url": "http://www.hao123.com/" },
+            { "name": "腾讯视频", "url": "https://v.qq.com/" },
             { "name": "电影天堂", "url": "https://www.dy2018.com/" },
             { "name": "爱奇艺", "url": "http://www.iqiyi.com/" },
             { "name": "YouTube", "url": "https://www.youtube.com" },
-            { "name": "腾讯视频", "url": "https://v.qq.com/" },
             { "name": "哔哩哔哩", "url": "https://www.bilibili.com/" },
             { "name": "CCTV5", "url": "https://tv.cctv.com/cctv5/" }
         ]
@@ -83,7 +79,8 @@ var itemList = [
             { "name": "Json解析", "url": "http://json.cn" },
             { "name": "站长工具", "url": "http://tool.chinaz.com/Tools/unixtime.aspx" },
             { "name": "印象笔记", "url": "https://www.yinxiang.com/" },
-            { "name": "网易云阅读", "url": "http://yuedu.163.com/" }
+            { "name": "网易云阅读", "url": "http://yuedu.163.com/" },
+            { "name": "163邮箱", "url": "http://mail.163.com" }
         ]
     },
     {
