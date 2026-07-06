@@ -19,6 +19,8 @@ var itemList = [
         "web": [
             { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
             { "name": "DeepSeek(开放平台)", "url": "https://platform.deepseek.com/" },
+            { "name": "智谱", "url": "https://bigmodel.cn/" },
+            { "name": "豆包", "url": "https://www.doubao.com/chat" },
             { "name": "豆包", "url": "https://www.doubao.com/chat" },
             { "name": "元宝", "url": "https://yuanbao.tencent.com/chat" },
             { "name": "百度 Chat", "url": "https://chat.baidu.com/" },
