@@ -24,6 +24,7 @@ var itemList = [
             { "name": "豆包", "url": "https://www.doubao.com/chat" },
             { "name": "元宝", "url": "https://yuanbao.tencent.com/chat" },
             { "name": "百度 Chat", "url": "https://chat.baidu.com/" },
+            { "name": "qoder", "url": "https://qoder.com/" },
             { "name": "魔塔社区", "url": "https://www.modelscope.cn/aigc/home" }
         ]
     },
