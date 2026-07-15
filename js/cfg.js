@@ -25,6 +25,7 @@ var itemList = [
             { "name": "元宝", "url": "https://yuanbao.tencent.com/chat" },
             { "name": "百度 Chat", "url": "https://chat.baidu.com/" },
             { "name": "qoder", "url": "https://qoder.com/" },
+            { "name": "方舟-CodingPlan", "url": "https://www.volcengine.com/activity/codingplan" },
             { "name": "魔塔社区", "url": "https://www.modelscope.cn/aigc/home" }
         ]
     },
